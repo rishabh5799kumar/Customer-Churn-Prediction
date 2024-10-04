@@ -1,5 +1,5 @@
 # Customer-Churn-Prediction
-We'll build a simple model to predict customer churn using the [Telco Customer Churn dataset](https://www.kaggle.com/blastchar/telco-customer-churn) . We’ll use Python tools like pandas for data manipulation and matplotlib for creating visualizations, and apply a classification algorithm to identify customers who have left.
+It is build on a simple model to predict customer churn using the [Telco Customer Churn dataset](https://www.kaggle.com/blastchar/telco-customer-churn) . Python tools are used like pandas for data manipulation and matplotlib for creating visualizations, and applied a classification algorithm to identify customers who have left.
 
 ## Steps Involved to Predict Customer Churn
 - Importing Libraries
